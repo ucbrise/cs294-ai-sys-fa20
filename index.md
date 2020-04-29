@@ -10,9 +10,11 @@ layout: default
 * **Instructor**: [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
    * **Office Hours:** Wednesdays from 4:00 to 5:00 in 773 Soda Hall (or on zoom...).
 * **Announcements**: [Piazza](piazza.com/berkeley/fall2020/cs294162)
-* **Sign-up to Present**: [Google Spreadsheet (coming soon)]() Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
-* If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-fa20) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-fa20/blob/master/index.md) file.
+* **Add Codes**: If you are interested in enrolling in the class please take a moment to fill out [this short form](https://forms.gle/QgWgVMESiacmUY7R6).
 
+<!-- * **Sign-up to Present**: [Google Spreadsheet (coming soon)]() Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
+* If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-fa20) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-fa20/blob/master/index.md) file.
+ -->
 
 
 ## Course Description
