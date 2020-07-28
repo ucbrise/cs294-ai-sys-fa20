@@ -1,13 +1,13 @@
 # theme: jekyll-theme-leap-day
 
 # Site settings
-title: AI-Sys Fa20
+title: Thought Leaders
 email: jegonzal@berkeley.edu
 author:
-description: AI-Sys Fa20 Course Website
+description: Conversations with Thought Leaders in Technology
 
 
-baseurl: /cs294-ai-sys-fa20
+baseurl: /thought-leaders-fa20
 
 # Build settings
 # permalink: :title/
