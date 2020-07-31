@@ -6,11 +6,9 @@ layout: default
 # Conversations with Thought Leaders in Technology 
 
 * **When**: *Coming Soon*
-* **Where**: *Coming Soon*
-* **Instructor**: [Vik Singh]() and [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
-   * **Office Hours:** Thursdays from 4:00 to 5:00 on zoom.
-* **Announcements**: [Piazza]()
-* **Add Codes**: If you are interested in enrolling in the class please take a moment to fill out [this short form]().
+* **Where**: Zoom! 
+* **Instructors**: [Vik Singh](https://www.linkedin.com/in/viksingh1/) and [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
+   * **Office Hours:** Gonzalez office hours are thursdays from 4:00 to 5:00 on zoom.
 
 
 ## Course Description
