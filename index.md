@@ -3,17 +3,17 @@ layout: default
 ---
 
 
-# Conversations with Thought Leaders in Technology 
+# Conversations with Thought Leaders in Technology (CS198-100)
 
-* **When**: *Coming Soon*
-* **Where**: Zoom! 
+* **When**: Tuesdays from 5:00 to 6:00 PM (PST)
+* **Where**: Zoom! (Attendance Required)
 * **Instructors**: [Vik Singh](https://www.linkedin.com/in/viksingh1/) and [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
    * **Office Hours:** Gonzalez office hours are thursdays from 4:00 to 5:00 on zoom.
 
 
 ## Course Description
 
-This interactive seminar class will connect a select group of Berkeley students with thought leaders at major technology companies and venture capital firms.  Each week will be organized around a short set of readings related to the speaker’s background followed by a live zoom session with that speaker.  Students will participate in an interactive slack discussion and generate questions to ask each speaker.  Students will learn about how technology is created, funded, and developed as well as perceived trends in the industry.  They will also have the opportunity to meet face-to-face with CEO, VC partners, and top research scientists from around the world and learn about their career paths. 
+This interactive seminar class will connect a select group of Berkeley students with thought leaders at major technology companies and venture capital firms.  Each week will be organized around a short set of readings related to the speaker’s background followed by a live zoom session with that speaker.  Students will participate in an interactive slack discussion and generate questions to ask each speaker.  Students will learn about how new technology is funded and developed as well as trends in the industry.  They will also have the opportunity to meet face-to-face with CEO, VC partners, and top research scientists from around the world and learn about their career paths. 
 
 
 
@@ -76,7 +76,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 ## Grading
 
-This class is only offered with P/NP grading and grades will be assessed based on attendance and participation in weekly zoom meetings.
+This 2-unit class is only offered with P/NP grading and grades will be assessed based on attendance and participation in weekly zoom meetings.
 
 
 
