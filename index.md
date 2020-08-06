@@ -13,7 +13,7 @@ layout: default
 
 ## Course Description
 
-This interactive seminar class will connect a select group of Berkeley students with thought leaders at major technology companies and venture capital firms.  Each week will be organized around a short set of readings related to the speaker’s background followed by a live zoom session with that speaker.  Students will participate in an interactive slack discussion and generate questions to ask each speaker.  Students will learn about how new technology is funded and developed as well as trends in the industry.  They will also have the opportunity to meet face-to-face with CEO, VC partners, and top research scientists from around the world and learn about their career paths. 
+This interactive seminar class will connect a select group of Berkeley students with thought leaders at major technology companies and venture capital firms.  Each week will be organized around a short set of readings related to the speaker’s background followed by a live zoom session with that speaker.  Students will participate in an interactive slack discussion and generate questions to ask each speaker.  Students will learn about how new technology is funded and developed as well as trends in the industry.  They will also have the opportunity to meet face-to-face with CXOs, VC partners, and top research scientists from around the world and learn about their career paths.  This is also an amazing opportunity to network with leaders in the technology world.
 
 
 
