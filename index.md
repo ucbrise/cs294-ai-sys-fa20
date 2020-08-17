@@ -66,14 +66,16 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 <tr>
 <td style="background:gray; color:white; font-size:16pt; vertical-align:middle;" id="week_1"> 
-<center><a href="#week_1" style="color:white">1</a></center> 
+<center><a href="#week_2" style="color:white">2</a></center> 
 </td>
 <th id="counter_09/08/20_1"> 09/08/20 (5:00PM) </th>
 
 <td markdown="1">
-## Joseph E. Gonzalez
+## [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal), Asst. Professor UC Berkeley
 
-Joseph will talk about his career spanning academia and industry and what he sees as big trends in Machine Learning and Data Science and how to get involved.
+Joseph is an Assistant Professor at UC Berkeley and a co-director of the UC Berkeley RISELab, a large research group backed by the NSF and a consortium of leading international industrial sponsors. He is a recipient of the NSF Early CAREER Award for his work on prediction serving systems and co-PI on the NSF Expedition Award for the RISE Lab. Before joining UC Berkeley, Joseph co-founded Turi to develop tools for data scientists based on his PhD thesis and he later sold Turi to Apple. His research is focused on the intersection of machine learning and systems and covers a broad range of areas including the design of efficient neural networks and systems for graph analytics, prediction serving, and serverless computing with applications in computer vision, natural language processing, and robotics. He has made significant contributions to the design of efficient neural networks to reduce computation and enable meta-learning. His work on both graph systems and prediction serving systems helped define their respective disciplines. His research produced multiple significant software artifacts including the GraphLab, PowerGraph and GraphX graph processing systems, the Opaque secure analytics system, the Clipper prediction serving system, as well as the RLlib, Tune, and Modin libraries for reinforcement learning, hyperparameter search, and distributed data processing respectively. These systems are widely used and have become standard parts of commercial offerings. Joseph helped establish the machine learning systems community and has served on the program committee for many of the top-tier conferences in machine learning and computer systems and was an editor for the IEEE data-engineering bulletin. Joseph launched and co-organized the MLSys workshop series for the past 10 years. This workshop series helped establish the MLSys research community and the new MLSys conference.
+
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
