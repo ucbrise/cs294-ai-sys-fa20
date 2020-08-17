@@ -16,7 +16,15 @@ layout: default
 This interactive seminar class will connect a select group of Berkeley students with thought leaders at major technology companies and venture capital firms.  Each week will be organized around a short set of readings related to the speaker’s background followed by a live zoom session with that speaker.  Students will participate in an interactive slack discussion and generate questions to ask each speaker.  Students will learn about how new technology is funded and developed as well as trends in the industry.  They will also have the opportunity to meet face-to-face with CXOs, VC partners, and top research scientists from around the world and learn about their career paths.  This is also an amazing opportunity to network with leaders in the technology world.
 
 
+### Confirmed Speakers 
 
+* [Steven Newhouse](https://www.bloomberg.com/profile/person/4664315): Co-President of [Advance Publications](https://en.wikipedia.org/wiki/Advance_Publications) which owns directly and through various subsidiaries, the Discovery Channel, Condé Nast, Wired, Lycos, Angelfire, Tripod, and is the majority shareholder in Reddit.
+* [Henry Schuck](https://www.linkedin.com/in/hschuck/): CEO / Co-Founder at ZoomInfo (just took public - hottest IPO of the year by far)
+* [Sanjay Poonen](https://www.vmware.com/company/leadership/sanjay-poonen.html): COO of VMware, former President of SAP
+* [Mamoon Hamid](https://www.kleinerperkins.com/people/mamoon-hamid/): Lead GP at Kleiner Perkins, early investor in Slack and Box
+* [Archana Agrawal](https://www.linkedin.com/in/archana-agrawal/): CMO of Airtable, head of enterprise at Atlassian, on the boards of Zendesk and MongoDB
+* [Hilary Mason](https://hilarymason.com/): General manager of ML at Cloudera (acquired her startup), Chief Scientist at bitly, board of Anita Borg
+* [Nick Caldwell](https://www.linkedin.com/in/nickcaldwell/): VP Engineering at Twitter, CPO at Looker (acquired by Google for $2.6B), board of /dev/color
 
 ## Course Syllabus 
 
@@ -43,15 +51,30 @@ A full list of speakers is coming soon.
 <td style="background:gray; color:white; font-size:16pt; vertical-align:middle;" id="week_1"> 
 <center><a href="#week_1" style="color:white">1</a></center> 
 </td>
-<th id="counter_08/28/20_1"> 08/28/20 (1:00PM) </th>
+<th id="counter_09/01/20_1"> 09/01/20 (5:00PM) </th>
 
 <td markdown="1">
 ## Introduction and Course Overview
 
 This lecture will be an overview of the class, requirements, and an introduction to the course format as well as a conversation with the instructors.
 
-<!-- * Lecture slides: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec01/01_ai-sys-intro.pptx)]
- -->
+</td>
+</tr>
+
+
+
+
+<tr>
+<td style="background:gray; color:white; font-size:16pt; vertical-align:middle;" id="week_1"> 
+<center><a href="#week_1" style="color:white">1</a></center> 
+</td>
+<th id="counter_09/08/20_1"> 09/08/20 (5:00PM) </th>
+
+<td markdown="1">
+## Joseph E. Gonzalez
+
+Joseph will talk about his career spanning academia and industry and what he sees as big trends in Machine Learning and Data Science and how to get involved.
+
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [SysML: The New Frontier of Machine Learning Systems](https://arxiv.org/abs/1904.03257)
@@ -62,6 +85,8 @@ This lecture will be an overview of the class, requirements, and an introduction
 * [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) provides some pretty good advice on how to read papers effectively.
 </div>
 </div>
+
+
 </td>
 </tr>
 
