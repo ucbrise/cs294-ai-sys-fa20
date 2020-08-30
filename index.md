@@ -28,7 +28,7 @@ This interactive seminar class will connect a select group of Berkeley students 
 
 ### Calendar with Zoom Links
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_cruruccevdbqguroc9a5pu125c%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%237986CB&amp;ctz=America%2FLos_Angeles&amp;src=Y19jcnVydWNjZXZkYnFndXJvYzlhNXB1MTI1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23711a76&amp;showNav=1&amp;showTitle=0&amp;mode=AGENDA&amp;showTabs=1&amp;showPrint=0&amp;showCalendars=0&amp;showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ## Course Syllabus 
