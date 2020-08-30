@@ -26,6 +26,11 @@ This interactive seminar class will connect a select group of Berkeley students 
 * [Hilary Mason](https://hilarymason.com/): General manager of ML at Cloudera (acquired her startup), Chief Scientist at bitly, board of Anita Borg
 * [Nick Caldwell](https://www.linkedin.com/in/nickcaldwell/): VP Engineering at Twitter, CPO at Looker (acquired by Google for $2.6B), board of /dev/color
 
+### Calendar with Zoom Links
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_cruruccevdbqguroc9a5pu125c%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
+
+
 ## Course Syllabus 
 
 A full list of speakers is coming soon.
