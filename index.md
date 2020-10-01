@@ -8,7 +8,7 @@ layout: default
 * **When**: Tuesdays from 5:00 to 6:00 PM (PST)
 * **Where**: Zoom! (Attendance Required)
 * **Instructors**: [Vik Singh](https://www.linkedin.com/in/viksingh1/) and [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
-   * **Office Hours:** Gonzalez office hours are thursdays from 4:00 to 5:00 on zoom.
+   * **Office Hours:** Gonzalez office hours are thursdays from 2:00 to 3:00 on zoom.
 
 
 ## Course Description
